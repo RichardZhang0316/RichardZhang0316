@@ -7,7 +7,11 @@
 - 🌱 I’m currently learning intermediate algorithms, data structures, UNIX, and the computer system.
 - 🌇 I’m seeking for Summer 2022 internship (Intended: SDE engineer intern)
 - 📫 How to reach me: zhank20@wfu.edu WeChat: torpe_002 ☎️: 7432162135
-- 😁 Fun fact: I like vanilla ice cream 🌿！
+- 😁 Fun Fact: I'm a huge fun of Steve Jobs and Deng Xiaoping, the second president of China
+<p align="center">
+<img height="300rpx" src="https://i.pinimg.com/originals/51/41/38/514138b958ce985f48fcca6a0c4cf4a0.jpg" border="0">
+<img height="300rpx" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg" border="0">
+</p>
 
 <p>
 🛠 Languages and tools：
@@ -19,6 +23,15 @@
 <img alt="r" src="https://img.shields.io/badge/r-EF4223?logo=r&logoColor=white&style=for-the-badge" />
 </p>
 
-<a href=”https://www.linkedin.com/in/kaixin-zhang-49b28b1b8/”>
+
+🏅 Most Used Language：
+<P>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardZhang0316" />
+</p>
+
+See my Linkedin profile for more information ⬇️: 
+<p>
+<a href="https://www.linkedin.com/in/kaixin-zhang-49b28b1b8/">
 <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
+</a><p>
+<p>
