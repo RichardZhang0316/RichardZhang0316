@@ -10,7 +10,7 @@
 - 😁 Fun fact: I like vanilla ice cream 🌿！
 
 <p>
-- 🛠 Languages and tools：
+🛠 Languages and tools：
 <img alt="JAVA" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -18,3 +18,7 @@
 <img alt="python" src="https://img.shields.io/badge/python-792EE5?logo=python&logoColor=white&style=for-the-badge" />
 <img alt="r" src="https://img.shields.io/badge/r-EF4223?logo=r&logoColor=white&style=for-the-badge" />
 </p>
+
+<a href=”https://www.linkedin.com/in/kaixin-zhang-49b28b1b8/”>
+<img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
