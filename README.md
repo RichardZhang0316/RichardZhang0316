@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Richard Zhang, a sophmore from Wake Forest University majoring in Computer Science B.S. and Mathmatical Business B.S. (minoring in Statistics).
+### Hi there 👋 I'm Richard Zhang, a sophomore from Wake Forest University majoring in Computer Science B.S. and Mathematical Business B.S. (minoring in Statistics).
 
                                                         🎩Go Deacs!🎩
 
