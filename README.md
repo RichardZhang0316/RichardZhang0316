@@ -3,6 +3,7 @@
 <img src="wake-forest-go-deacs.gif" width="250" height="250"/>
 <br>Go Deacs 🎩
 </p>
+
 - 👨‍💻‍ I developed and lauched two mobile Apps for the students of Wake. One App can monitor the covid-19 data of my school, and the other shows lots of helpful information (menus, real-time occupency, etc) of all the cafeterias and resturants on the Wake Forest campus. #MakeImpact
 
 - 📱 I’m currently working on developing two IOS mobile Apps for my school. #ThinkDifferent
