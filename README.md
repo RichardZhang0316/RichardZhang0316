@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Richard Zhang, a sophomore from Wake Forest University majoring in Computer Science B.S. and Mathematical Business B.S. (minoring in Statistics).
 
+<p align="center" height="100rpx">
 ![wake-forest-go-deacs](https://user-images.githubusercontent.com/78079830/153767016-385a8229-0088-412d-b441-2fdcc8006b75.gif)
+</p>
 
 - 👨‍💻‍ I developed and lauched two mobile Apps for the students of Wake. One App can monitor the covid-19 data of my school, and the other shows lots of helpful information (menus, real-time occupency, etc) of all the cafeterias and resturants on the Wake Forest campus. #MakeImpact
 - 📱 I’m currently working on developing two IOS mobile Apps for my school. #ThinkDifferent
