@@ -4,10 +4,15 @@
 <br>Go Deacs 🎩
 </p>
 - 👨‍💻‍ I developed and lauched two mobile Apps for the students of Wake. One App can monitor the covid-19 data of my school, and the other shows lots of helpful information (menus, real-time occupency, etc) of all the cafeterias and resturants on the Wake Forest campus. #MakeImpact
+
 - 📱 I’m currently working on developing two IOS mobile Apps for my school. #ThinkDifferent
+
 - 🌱 I’m currently learning intermediate algorithms, data structures, UNIX, and the computer system.
+
 - 🌇 I’m seeking for Summer 2022 internship (Intended: SDE engineer intern)
+
 - 📫 How to reach me: zhank20@wfu.edu WeChat: torpe_002 ☎️: 7432162135
+
 - 😁 Fun Fact: I'm a huge fun of Steve Jobs and Deng Xiaoping, the second president of China
 <p align="center">
 <img height="300rpx" src="https://i.pinimg.com/originals/51/41/38/514138b958ce985f48fcca6a0c4cf4a0.jpg" border="0">
