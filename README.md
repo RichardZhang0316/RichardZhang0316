@@ -42,3 +42,8 @@ See my Linkedin profile for more information ⬇️:
 <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a><p>
 <p>
+
+<p align="center">
+<img src="https://pbs.twimg.com/media/EcHFqgUUcAADGW-.jpg" width="250"/>
+<br>好想像他一样充满创造、热爱、与神性
+</p>
