@@ -45,6 +45,4 @@ See my Linkedin profile for more information ⬇️:
 
 <p align="center">
 <img src="https://pbs.twimg.com/media/EcHFqgUUcAADGW-.jpg" width="250"/>
-<br>好想像乔布斯一样，一生充满创造、热爱、与神性
-  <br>2022年3月21日凌晨3:25
 </p>
