@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Richard Zhang, a sophomore from Wake Forest University majoring in Computer Science B.S. and Mathematical Business B.S. 
+### Hi there 👋 I'm Richard Zhang, a junior from Wake Forest University majoring in Computer Science B.S. and Mathematical Business B.S. 
 <p align="center">
 <img src="wake-forest-go-deacs.gif" width="250" height="250"/>
 <br>Go Deacs 🎩
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning intermediate algorithms, data structures, UNIX, and the computer system.
 
-- 🌇 I’m seeking for Summer 2022 internship (Intended: SDE engineer intern)
+- 🌇 I’m seeking for Summer 2023 internship (Intended: SDE engineer intern)
 
 - 📫 How to reach me: zhank20@wfu.edu WeChat: torpe_002 ☎️: 7432162135
 
