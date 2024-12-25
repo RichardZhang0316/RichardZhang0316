@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Richard Zhang, a senior from Wake Forest University majoring in Computer Science B.S. and Mathematical Business B.S. 
+### Hi there 👋 I'm Kaixin Zhang
 <p align="center">
 <img src="wake-forest-go-deacs.gif" width="250" height="250"/>
 <br>Go Deacs 🎩
