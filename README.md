@@ -12,7 +12,7 @@
 
 - 🌇 I’m seeking for Summer 2024 internship and new graduates positions (Intended: SDE engineer intern)
 
-- 📫 How to reach me: zhank20@wfu.edu WeChat: torpe_002 ☎️: 7432162135
+- 📫 How to reach me: richardzhangkaixin0316@gmail.com WeChat: torpe_002 ☎️: 7432162135
 
 - 😁 Fun Fact: I'm a huge fun of Steve Jobs and Deng Xiaoping, the second president of China
 <p align="center">
