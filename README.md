@@ -38,7 +38,7 @@
 
 See my Linkedin profile for more information ⬇️: 
 <p>
-<a href="https://www.linkedin.com/in/richard-zhang-49b28b1b8//">
+<a href="https://www.linkedin.com/in/richardzhangkaixin/">
 <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a><p>
 <p>
